@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"ch.pschatzmann.common.table"},{"l":"ch.pschatzmann.common.tests"},{"l":"ch.pschatzmann.common.utils"}]
